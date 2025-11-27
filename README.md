@@ -79,15 +79,6 @@ With hands-on experience in **Power BI, SQL, Excel, and Python**, I love creatin
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedikasankhe&show_icons=true&theme=radical" alt="Vedika Sankhe GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedikasankhe&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
